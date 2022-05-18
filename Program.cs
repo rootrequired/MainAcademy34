@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Collections.Generic;
 using System.Text;
@@ -17,7 +17,7 @@ namespace lab1
             Console.WriteLine("Hello Read!");
             Console.ReadLine();
             // Я дуже радий що нарешті сижу за основним пк(16 гб оперативки(хром дуже радийXD))
-            /*Аце двох ріневий
+            /*А це двох рівневий
              коментар)*/
 
 
